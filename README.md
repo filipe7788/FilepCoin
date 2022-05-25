@@ -1,4 +1,4 @@
-# Workshop Solutis
+# Filep Coin
 
 > Simple blockchain structure developed for learning purposes.
 
